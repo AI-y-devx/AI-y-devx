@@ -2,7 +2,7 @@
 
 **Exercise Physiologist | Ph.D. Student | Sports Science x AI**
 
-I'm a doctoral researcher at CHA University, specializing in exercise physiology and human performance. My work focuses on bridging physiological data analysis with real-world training applications — particularly around VO2max, lactate threshold, and energy system profiling.
+I'm a doctoral researcher at CHA University, specializing in exercise physiology and human performance. My work focuses on bridging physiological data analysis with real-world training applications — particularly around VO<sub>2</sub>max, lactate threshold, and energy system profiling.
 
 I'm passionate about applying AI and data science to sports science, building tools that turn lab measurements into actionable insights for athletes and coaches.
 
@@ -10,7 +10,7 @@ I'm passionate about applying AI and data science to sports science, building to
 
 ### What I Do
 
-- **Research**: VO2max, lactate threshold, energy system contribution analysis, glycemic variability during exercise, non-invasive lactate monitoring
+- **Research**: VO<sub>2</sub>max, lactate threshold, energy system contribution analysis, glycemic variability during exercise, non-invasive lactate monitoring
 - **Build**: Mobile apps for sports science field testing & analysis
 - **Explore**: Machine learning / deep learning applied to exercise physiology data
 
