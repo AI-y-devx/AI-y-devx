@@ -36,7 +36,7 @@ I'm passionate about applying AI and data science to sports science, building to
 ### Background
 
 - Ph.D. Student in Sports Medicine, CHA University Graduate School
-- Sports Physiologist at CHA Human Performance Lab (since 2022)
+- Sports Physiologist at CHA Human Performance Lab (since 2023)
 - K-Digital Training — AIFFEL AI Core Course
 
 ---
