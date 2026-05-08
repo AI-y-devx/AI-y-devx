@@ -11,7 +11,7 @@ I'm passionate about applying AI and data science to sports science, building to
 ### What I Do
 
 - **Research**: VO<sub>2</sub>max, lactate threshold, energy system contribution analysis, glycemic variability during exercise, non-invasive lactate monitoring
-- **Build**: Mobile apps for sports science field testing & analysis
+- **Build**: Mobile apps and SaaS tools for sports science field testing, fitness center operations, and performance analysis
 - **Explore**: Machine learning / deep learning applied to exercise physiology data
 
 ---
@@ -21,6 +21,7 @@ I'm passionate about applying AI and data science to sports science, building to
 | Project | Description | Status |
 |---|---|---|
 | **HPL Sweat Science** | Sports science lab testing & analysis app (Flutter + Firebase) | Released on Google Play |
+| **DailyOps** | Operations management SaaS for fitness, Pilates, PT, and rehabilitation centers (Next.js + Supabase) | MVP in development |
 
 ---
 
@@ -30,6 +31,10 @@ I'm passionate about applying AI and data science to sports science, building to
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
